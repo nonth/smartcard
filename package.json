@@ -1,7 +1,7 @@
 {
-  "name": "smartcard",
+  "name": "@nonth/smartcard",
   "version": "1.0.46",
-  "author": "tomkp <tom@tomkp.com>",
+  "author": "nonth <nonthz@gmail.com> (https://github.com/nonth)",
   "keywords": [
     "pcsc",
     "smartcard",
@@ -14,12 +14,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tomkp/smartcard.git"
+    "url": "https://github.com/nonth/smartcard.git"
   },
   "bugs": {
-    "url": "https://github.com/tomkp/smartcard/issues"
+    "url": "https://github.com/nonth/smartcard/issues"
   },
-  "homepage": "https://github.com/tomkp/smartcard",
+  "homepage": "https://github.com/nonth/smartcard",
   "main": "lib/index.js",
   "scripts": {
     "compile": "babel -d lib/ src/",
