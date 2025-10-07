@@ -1,6 +1,6 @@
 {
   "name": "@nonth/smartcard",
-  "version": "1.0.46",
+  "version": "1.0.47",
   "author": "nonth <nonthz@gmail.com> (https://github.com/nonth)",
   "keywords": [
     "pcsc",
